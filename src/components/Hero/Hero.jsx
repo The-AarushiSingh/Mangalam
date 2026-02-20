@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section id="home" className="relative h-[80vh] flex items-center justify-center text-center text-white">
       <img
-        src="/public/PoojaWebsite_Images/Hero.png"
+        src="/PoojaWebsite_Images/Hero.png"
         alt="Mangalam Hero"
         className="absolute w-full h-full object-cover brightness-50"
       />
